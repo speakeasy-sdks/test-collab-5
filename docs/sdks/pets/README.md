@@ -17,9 +17,10 @@ Create a pet
 package main
 
 import(
+	testcollab5 "github.com/speakeasy-sdks/test-collab-5"
 	"context"
 	"log"
-	testcollab5 "github.com/speakeasy-sdks/test-collab-5"
+	"net/http"
 )
 
 func main() {
@@ -61,9 +62,9 @@ List all pets
 package main
 
 import(
+	testcollab5 "github.com/speakeasy-sdks/test-collab-5"
 	"context"
 	"log"
-	testcollab5 "github.com/speakeasy-sdks/test-collab-5"
 )
 
 func main() {
@@ -109,9 +110,9 @@ Info for a specific pet
 package main
 
 import(
+	testcollab5 "github.com/speakeasy-sdks/test-collab-5"
 	"context"
 	"log"
-	testcollab5 "github.com/speakeasy-sdks/test-collab-5"
 )
 
 func main() {

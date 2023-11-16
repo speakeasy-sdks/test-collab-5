@@ -1,6 +1,4 @@
 <!-- Start SDK Example Usage -->
-
-
 ```go
 package main
 
@@ -8,6 +6,7 @@ import (
 	"context"
 	testcollab5 "github.com/speakeasy-sdks/test-collab-5"
 	"log"
+	"net/http"
 )
 
 func main() {
