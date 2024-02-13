@@ -71,7 +71,7 @@ func main() {
     s := testcollab5.New()
 
 
-    var limit *int = 21453
+    var limit *int = testcollab5.Int(21453)
 
     ctx := context.Background()
     res, err := s.Pets.ListPets(ctx, limit)
