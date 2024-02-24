@@ -4,16 +4,16 @@ management:
   docChecksum: 21c25ca8a734b4fb704e98d966524ee0
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.263.3
-  releaseVersion: 0.5.1
-  configChecksum: 3d82861ef02d51a24babf997af5f4aad
+  generationVersion: 2.272.4
+  releaseVersion: 0.5.2
+  configChecksum: 0d3d6bc5350240a0308ce9a1638064e3
   repoURL: https://github.com/speakeasy-sdks/test-collab-5.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/test-collab-5
   published: true
 features:
   go:
-    core: 3.4.1
+    core: 3.4.3
     flattening: 2.81.1
     globalServerURLs: 2.82.1
 generatedFiles:
