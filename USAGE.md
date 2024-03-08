@@ -6,7 +6,6 @@ import (
 	"context"
 	testcollab5 "github.com/speakeasy-sdks/test-collab-5"
 	"log"
-	"net/http"
 )
 
 func main() {
@@ -17,8 +16,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	if res.StatusCode == http.StatusOK {
+	if res != nil {
 		// handle response
 	}
 }
