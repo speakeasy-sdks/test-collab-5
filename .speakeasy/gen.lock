@@ -3,10 +3,10 @@ id: ca271719-43ac-4bdd-9067-22016aa660f4
 management:
   docChecksum: 21c25ca8a734b4fb704e98d966524ee0
   docVersion: 1.0.0
-  speakeasyVersion: 1.204.1
-  generationVersion: 2.279.1
-  releaseVersion: 0.6.0
-  configChecksum: 7a586e60d4ff9f0e3d4323e690fe053c
+  speakeasyVersion: 1.207.1
+  generationVersion: 2.280.6
+  releaseVersion: 0.6.1
+  configChecksum: 6858524be63e2c0a603c5e299f0efb4b
   repoURL: https://github.com/speakeasy-sdks/test-collab-5.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/test-collab-5
@@ -15,7 +15,7 @@ features:
   go:
     core: 3.4.4
     flattening: 2.81.1
-    globalServerURLs: 2.82.1
+    globalServerURLs: 2.82.2
     responseFormat: 0.1.0
 generatedFiles:
   - pets.go
